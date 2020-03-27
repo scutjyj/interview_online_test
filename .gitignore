@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+venv
+*.log
+.idea/
+.python-version
+
+# dev environment
+.vscode
+
